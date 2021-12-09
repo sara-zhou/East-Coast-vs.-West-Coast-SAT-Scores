@@ -2,7 +2,7 @@
 
 ### Problem Statement
 
-Does the West Coast have more STEM driven students compared to the East? Does the East Coast have more Business/Literature driven students? How important of a role does geography play in major choice? Should we level out academic curriculums to provide students equal opportunity? 
+Does the West Coast have more STEM-driven students compared to the East? Does the East Coast have more Business/Literature driven students? How important of a role does geography play in major choice? Should we level out academic curriculums to provide students with equal opportunity?
 
 ### Background
 
@@ -14,7 +14,7 @@ The SAT has two sections of the test: Evidence-Based Reading and Writing and Mat
 
 Standardized tests have long been a controversial topic for students, administrators, and legislators. Since the 1940's, an increasing number of colleges have been using scores from sudents' performances on tests like the SAT and the ACT as a measure for college readiness and aptitude ([*source*](https://www.minotdailynews.com/news/local-news/2017/04/a-brief-history-of-the-sat-and-act/)). Supporters of these tests argue that these scores can be used as an objective measure to determine college admittance. Opponents of these tests claim that these tests are not accurate measures of students potential or ability and serve as an inequitable barrier to entry.
 
-Most people associated the West Coast with STEM because that's where Silicon Valley is located, which is considered the capital of the booming tech industry. Likewise, most people will associate the East Coast with business because of the New York Stock Exchange located in New York City. Due to all of these STEM and Business alumni gathering at these parts of the world along the coasts, how will this affect the students in these areas of the US? Alumni are the people who lead the future generation and help pave the path to their educational carrers. 
+Most people associate the West Coast with STEM because that's where Silicon Valley is located, which is considered the capital of the booming tech industry. Likewise, most people will associate the East Coast with business because of the New York Stock Exchange located in New York City. Due to all of these STEM and Business alumni gathering at these parts of the world along the coasts, how will this affect the students in these areas of the US? Alumni are the people who lead the future generation and help pave the path to their educational careers.
 
 ### Datasets
 
@@ -46,8 +46,8 @@ Most people associated the West Coast with STEM because that's where Silicon Val
 
 ### Analysis
 
-Through the box plots and scatter points, we can clearly see that the East and West Coast average scores don't really differ much. Originally I hypothesized that the West Coast would dominate over the East Coast in the SAT Math section but each year they take turns overtaking one another by minor differences. I also expected the East Coast to dominate over the West in the EBRW section but surprisingly the West beat them in all three years, 2017, 2018, and 2019. Between the years 2017-2019 the two coasts' scores were at most off by 4 points in both sections and years. 
+Through the box plots and scatter points, we can clearly see that the East and West Coast average scores don't really differ much. Originally I hypothesized that the West Coast would dominate over the East Coast in the SAT Math section, but each year they take turns overtaking one another by minor differences. I also expected the East Coast to dominate over the West in the Evidence-Based Reading Writing (EBRW) section, but surprisingly, the West beat them in all three years, 2017, 2018, and 2019. Between the years 2017-2019, the two coasts' scores were at most off by 4 points in both sections and years.
 
 ### Conclusion
 
-Having the Silicon Valley or Wall Street near you doesn't affect how well you preform on either section of the SATs. Both coasts' had similar test results and fell short of the national average between the years of 2017-2019. Being surrounded by successful STEM and Business alumni did not give California, Oregon, Washington, Maryland, New York, or Massechusetts any increase in any particular section of the SATs. The quality of education provided by the alumni of the respected states didn't change due to the geographical locations of the schools.
+Having Silicon Valley or Wall Street near you doesn't affect how well you perform on either section of the SATs. Both coasts' had similar test results and fell short of the national average between the years of 2017-2019. Being surrounded by successful STEM and Business alumni did not give California, Oregon, Washington, Maryland, New York, or Massachusetts any increase in any particular section of the SATs. The quality of education provided by the alumni of the respected states didn't change due to the geographical locations of the schools.
